@@ -1,0 +1,34 @@
+# Apresentação da Disciplina e Contextualização
+
+## Integração Vertical e Horizontal
+
+No início da aula foi apresentado o foco da disciplina, que aborda a conexão entre automação, Tecnologia da Informação (TI) e gestão organizacional.
+
+### Integração Vertical
+
+A integração vertical ocorre quando a informação circula entre diferentes níveis hierárquicos de um sistema ou organização.
+
+Exemplos em desenvolvimento de software:
+Front-end -> Backend -> Banco de Dados
+
+Exemplo prático em processos:
+- Cliente realiza pedido 
+- Sistema registra pedido 
+- Cozinha recebe 
+- Financeiro processa 
+- Gestão acompanha relatórios 
+
+Nesse caso, a informação percorre diferentes níveis operacionais, táticos e estratégicos.
+
+---
+
+### Integração Horizontal
+
+A integração horizontal ocorre quando sistemas ou processos do mesmo nível trocam informações entre si.
+
+Exemplo prático:
+- Loja online envia pedido para o sistema de entrega 
+- Sistema de pagamento confirma a compra 
+- Sistema de marketing envia comunicação ao cliente 
+
+Nesse cenário, sistemas paralelos compartilham dados para executar processos integrados.
